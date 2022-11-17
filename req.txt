@@ -1,0 +1,11 @@
+XlsxWriter
+xlrd
+openpyxl
+numpy
+pandas
+pillow
+requests
+docx2python
+django-environ
+python-crontab
+regex
